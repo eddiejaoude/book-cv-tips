@@ -13,3 +13,12 @@ By Eddie Jaoude
 == Abstract
 
 This book are tips of DOs & DONT of CV.
+
+[preface]
+== Preface
+
+Many people apply for the same role. How do you get your CV which is usually the first impression to stand out & make a good impression?
+
+As with technology that keep on changing, this book will need continually updating, suggestions & pull requests are welcome. Currently on version v{version}.
+
+Source Repository is on GitHub {repo}
