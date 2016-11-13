@@ -29,3 +29,17 @@ Source Repository is on GitHub {repo}
 With so many CVs passing the employers desk everyday, how do you stand out & grab their attention without including your life story? This is not a new question, it does however change with time. This tips book will list the DOs & DONTs of what to include in your CV.
 
 TIP: This book will continually be updated, please check the version {version}. Any question please contact the author {author} on {twitter}.
+
+<<<
+== DOs
+
+Recommended...
+
+include::do.adoc[]
+
+<<<
+== DONTs
+
+NOT recommended...
+
+include::dont.adoc[]
