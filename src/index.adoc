@@ -8,3 +8,8 @@ By Eddie Jaoude
 :version:  0.1.0
 :repo:     https://github.com/eddiejaoude/book-cv-tips
 :docinfo1:
+
+[abstract]
+== Abstract
+
+This book are tips of DOs & DONT of CV.
