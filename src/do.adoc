@@ -8,4 +8,4 @@ Should not include the same info on your CV. This should be concise & where you 
 
 === Back your CV up with examples
 
-Words on a CV only go so far. Back these up with links to examples.
+Words on a CV only go so far. Back these up with links to examples. This could be from GitHub, Stackoverflow or even Twitter, you would be surprised the smallest bit of evidence will help.
