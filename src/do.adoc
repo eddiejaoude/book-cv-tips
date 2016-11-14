@@ -1,3 +1,7 @@
-=== Extra activities (open source projects, conferences, meetups etc)
+=== Extra activities (open source projects, hackathons, conferences, meetups etc)
 
-Include the extra activities you do in addition to your job. These are all great for learning & network.
+Include the extra activities you do in addition to your job. These are all great for learning & network. Include open source projects, hackathons, conferences, meetups etc
+
+=== Covering letter
+
+Should not include the same info on your CV. This should be concise & where you want to go & what benefits you can bring to the team & company.
