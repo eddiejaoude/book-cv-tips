@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/eddiejaoude/book-cv-tips.svg?branch=master)](https://travis-ci.org/eddiejaoude/book-cv-tips)
+
 # CV tips
 
 Many people apply for the same role. How do you get your CV which is usually the first impression to stand out & make a good impression?
