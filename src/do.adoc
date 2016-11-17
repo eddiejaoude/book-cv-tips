@@ -1,11 +1,3 @@
-=== Extra activities (open source projects, hackathons, conferences, meetups etc)
+=== Getting your CV notice
 
-Include the extra activities you do in addition to your job. These are all great for learning & network. Include open source projects, hackathons, conferences, meetups etc
-
-=== Covering letter
-
-Should not include the same info on your CV. This should be concise & where you want to go & what benefits you can bring to the team & company.
-
-=== Back your CV up with examples
-
-Words on a CV only go so far. Back these up with links to examples. This could be from GitHub, Stackoverflow or even Twitter, you would be surprised the smallest bit of evidence will help.
+Short & concise but make it stand out.
