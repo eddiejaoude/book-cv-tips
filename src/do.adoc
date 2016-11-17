@@ -1,3 +1,7 @@
 === Getting your CV notice
 
 Short & concise but make it stand out.
+
+=== Extra activities (open source projects, hackathons, conferences, meetups etc)
+
+Include the extra activities you do in addition to your job. These are all great for learning & network. Include open source projects, hackathons, conferences, meetups etc.
